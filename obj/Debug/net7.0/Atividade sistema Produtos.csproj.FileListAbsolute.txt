@@ -1,0 +1,5 @@
+C:\Users\1185849874\Documents\Atividade sistema Produtos\obj\Debug\net7.0\Atividade sistema Produtos.csproj.AssemblyReference.cache
+C:\Users\1185849874\Documents\Atividade sistema Produtos\obj\Debug\net7.0\Atividade sistema Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1185849874\Documents\Atividade sistema Produtos\obj\Debug\net7.0\Atividade sistema Produtos.AssemblyInfoInputs.cache
+C:\Users\1185849874\Documents\Atividade sistema Produtos\obj\Debug\net7.0\Atividade sistema Produtos.AssemblyInfo.cs
+C:\Users\1185849874\Documents\Atividade sistema Produtos\obj\Debug\net7.0\Atividade sistema Produtos.csproj.CoreCompileInputs.cache
